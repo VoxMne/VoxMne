@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @VoxMne
+- 👀 I’m interested in Computer Science and Programming 
+- 🌱 I’m currently learning Bachelor Studies Computer Science 
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me?  vukotic.vojislav1@gmail.com
